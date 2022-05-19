@@ -1,5 +1,5 @@
 # Covid App
-## How can ı run?
+## How can ı run ?
 - Open the terminal
 - Npm install
 - Npm Start
